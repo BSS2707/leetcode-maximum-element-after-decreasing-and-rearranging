@@ -1,5 +1,4 @@
 # leetcode-maximum-element-after-decreasing-and-rearranging
-# Maximum Element After Decrementing and Rearranging
 
 This repository contains my solution to the LeetCode problem **Maximum Element After Decrementing and Rearranging**.
 
